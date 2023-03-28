@@ -1,16 +1,23 @@
-# flutterwidgets
 
-A new Flutter project.
+# Flutter Widgets 
 
-## Getting Started
+It's Information about Widgets
 
-This project is a starting point for a Flutter application.
+## [Container Widget](https://github.com/abraralidev/Flutter-Widgets/blob/main/lib/Widgets/container_widget.dart)
+- width
+- height
+- color
+- aligniment
+- decoration
+- - BoxDecoration
+- - borderRadius
+- - gradient (LinearGradient)
+- - border
+- - boxShadow
+- - Image (Imagedecoration) 
+- constraints
+- transfrom (Matrix4)
+- transfromAligment
+- child
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
